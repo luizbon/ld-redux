@@ -31,7 +31,7 @@
     "babel-preset-react": "^6.5.0",
     "babel-preset-stage-0": "^6.5.0",
     "babel-register": "^6.7.2",
-    "express": "^4.13.4",
+    "express": "^4.20.0",
     "json-loader": "^0.5.4",
     "keymirror": "^0.1.1",
     "ld-redux": "^0.1.1",
@@ -50,7 +50,7 @@
     "react-transform-hmr": "^1.0.4",
     "redbox-react": "^1.2.2",
     "webpack": "^2.1.0-beta.4",
-    "webpack-dev-middleware": "^1.6.1",
+    "webpack-dev-middleware": "^5.3.4",
     "webpack-hot-middleware": "^2.10.0"
   }
 }
